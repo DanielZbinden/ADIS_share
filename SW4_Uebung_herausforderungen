@@ -1,0 +1,6 @@
+I Signale und Spannungen: undefiniert oder ändern sich, Störungen, Stromverbrauch,
+I Reihenfolge: Teile des Systems starten verschieden schnell, . . .
+I Konflikte: Systemteile starten gleichzeitig, gleiche Adressen, Broadcasts, . . .
+I Restart: Teile des Systems können häufig neu starten (Wartung), . . .
+I Abhängigkeiten: Master-Slave, zentraler Server, Mesh vs. Tree, . . .
+I Sicherheit: Secure Boot, Authentifizierung, . . .
